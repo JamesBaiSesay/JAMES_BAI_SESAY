@@ -19,7 +19,7 @@ footer{
  <footer>
   <p>James Bai Sesay</p>
   <p>Contact information: <a href="Jamesbaisesay.com">
-  someone@example.com</a>.</p>
+  jamesbaisesay.com</a>.</p>
 </footer> 
 
 
