@@ -1,3 +1,9 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>HOME</title>
+</head>
+<body>
 <img src="GITHUBP.png" alt="">
 
 <style>
@@ -11,3 +17,8 @@ footer{
   <p>Contact information: <a href="Jamesbaisesay.com">
   someone@example.com</a>.</p>
 </footer> 
+
+
+
+</body>
+</html> 
