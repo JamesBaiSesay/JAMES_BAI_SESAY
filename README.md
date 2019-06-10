@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+
 <html>
 <head>
 <title>HOME</title>
@@ -8,11 +8,12 @@
 
 <style>
 footer{
-  color: blue;
+ background-color = light-blue;
+  color: black;
   text-align: center;
 }
  </style>
- <footer color = "blue">
+ <footer  background-color = light-blue, color = "black">
   <p>James Bai Sesay</p>
   <p>Contact information: <a href="Jamesbaisesay.com">
   someone@example.com</a>.</p>
