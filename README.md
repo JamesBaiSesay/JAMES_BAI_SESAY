@@ -1,1 +1,1 @@
-<img src="GITHUB.JPG" alt="">
+<img src="GITHUBP.png" alt="">
