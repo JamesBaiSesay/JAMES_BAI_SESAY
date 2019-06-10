@@ -13,7 +13,7 @@ footer{
   text-align: center;
 }
  </style>
- <footer  background-color = light-blue, color = "black">
+ <footer>
   <p>James Bai Sesay</p>
   <p>Contact information: <a href="Jamesbaisesay.com">
   someone@example.com</a>.</p>
